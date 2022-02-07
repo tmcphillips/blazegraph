@@ -1,3 +1,2 @@
-
 start_blazegraph.sh
 blazegraph.jar
